@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheiky77
+- 👋 Hi, I’m Sheik 
 - 👀 I’m interested in information security projects
 - 🌱 I’m currently looking to create some projects that could solve security issues
 - 💞️ I’m looking to collaborate on various security initiatives
